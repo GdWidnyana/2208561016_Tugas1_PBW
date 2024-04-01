@@ -31,7 +31,7 @@ Repository ini berisi jawaban soal nomor 4 dari tugas 1 Pemrograman Berbasis Web
 2. Buka file `index.html` di browser Anda.
 
 ### Preview
-Gambar yang sudah diunggah dapat dilihat di halaman tugas.
+Dokumentasi Hasil Website.
 ![Dokumentasi hasil :](https://github.com/GdWidnyana/2208561016_Tugas1_PBW/blob/main/Screenshot%202024-04-01%20103756.png)
 
 
